@@ -1,0 +1,10 @@
+{
+  "name": "BUILD Training Tracker",
+  "short_name": "BUILD",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101725",
+  "theme_color": "#172238",
+  "description": "Six-week muscle growth workout tracker"
+}
